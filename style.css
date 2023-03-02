@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100vw;
+}
+
+.wrap {
+    width: 100%;
+}
+
+.content{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.hero{
+    height: auto;
+    background-color: #1f2937;
+    padding-top: 15px;
+}
+
+.header{
+    width: 100%;
+}
+
+.header h3, .header a {
+    display: inline-block;
+}
+
+.header h3{
+    font-size: 24px;
+    font-weight: 700;
+    color: #f9faf8
+}
+
+.header a {
+    float: right;
+    padding-left: 20px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.website-info{
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.main-pic {
+    height: 300px;
+    width: auto;
+}
