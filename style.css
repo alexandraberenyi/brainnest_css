@@ -1,5 +1,9 @@
 /*GENERAR STYLE*/
 
+*{
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     width: 100vw;
@@ -184,4 +188,6 @@ footer{
     text-align: center;
     padding: 30px;
     color: #f9faf8;
+
 }
+
